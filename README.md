@@ -60,21 +60,9 @@ Implemented features to add, display, edit, and delete user records, with an HTM
 URL of the Live Render Link for the deployed system: https://websys-sarteraiver-bsis2b.onrender.com/
 
 Tools Used:
-HTML5
-CSS3
-JavaScript
-Bootstrap
-Node.js
-Express.js
-MongoDB
-Git
-GitHub
-Visual Studio Code
-Sublime Text
-Render
+HTML5, CSS3, JavaScript, Bootstrap, Node.js, Express.js, MongoDB, Git, GitHub, Visual Studio Code, Render
 
 Notes:
-
 This project was developed as part of the Midterm Laboratory Requirement for Web Systems and Technologies. 
 It demonstrates my progress in learning frontend and backend web development through laboratory activities completed from Week 1 to Week 7.
 
